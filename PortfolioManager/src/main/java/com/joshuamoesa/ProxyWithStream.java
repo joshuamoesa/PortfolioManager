@@ -19,7 +19,6 @@ import org.json.simple.parser.ParseException;
 import org.json.simple.parser.JSONParser;
 
 
-
 public class ProxyWithStream implements RequestStreamHandler {
 	JSONParser parser = new JSONParser();
 
